@@ -1,0 +1,9 @@
+C:\Users\Anonymus\source\repos\KonyvespolcFormAlk\KonyvespolcFormAlk\bin\Debug\KonyvespolcFormAlk.exe.config
+C:\Users\Anonymus\source\repos\KonyvespolcFormAlk\KonyvespolcFormAlk\bin\Debug\KonyvespolcFormAlk.exe
+C:\Users\Anonymus\source\repos\KonyvespolcFormAlk\KonyvespolcFormAlk\bin\Debug\KonyvespolcFormAlk.pdb
+C:\Users\Anonymus\source\repos\KonyvespolcFormAlk\KonyvespolcFormAlk\obj\Debug\KonyvespolcApp.csprojAssemblyReference.cache
+C:\Users\Anonymus\source\repos\KonyvespolcFormAlk\KonyvespolcFormAlk\obj\Debug\KonyvespolcFormAlk.Form1.resources
+C:\Users\Anonymus\source\repos\KonyvespolcFormAlk\KonyvespolcFormAlk\obj\Debug\KonyvespolcFormAlk.Properties.Resources.resources
+C:\Users\Anonymus\source\repos\KonyvespolcFormAlk\KonyvespolcFormAlk\obj\Debug\KonyvespolcApp.csproj.GenerateResource.cache
+C:\Users\Anonymus\source\repos\KonyvespolcFormAlk\KonyvespolcFormAlk\obj\Debug\KonyvespolcFormAlk.exe
+C:\Users\Anonymus\source\repos\KonyvespolcFormAlk\KonyvespolcFormAlk\obj\Debug\KonyvespolcFormAlk.pdb
